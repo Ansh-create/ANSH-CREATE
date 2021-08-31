@@ -69,8 +69,8 @@
 <a href = "https://www.linkedin.com/in/ansh-gupta-create/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/ansh-create" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
-<a href = "https://www.linkedin.com/in/ansh-gupta-create/" target="_blank"><img src="https://img.icons8.com/instagram"/></a>
-<a href = "https://www.linkedin.com/in/ansh-gupta-create/" target="_blank"><img src="https://img.icons8.com/twitter"/></a>
+<a href = "https://www.instagram.com/i_ansh_gupta_/" target="_blank"><img src="https://img.icons8.com/instagram"/></a>
+<a href = "https://twitter.com/i_ansh_gupta_" target="_blank"><img src="https://img.icons8.com/twitter"/></a>
 </p>
 
 ## ❤ Views and Followers
