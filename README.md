@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Front-end Web Development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm planning to get my hands into **Neural Networks**
 
-- 📫 How to reach me **sujalgera01@gmail.com**
+- 📫 How to reach me **techansh12@gmail.com**
 
 
 ## 🚀 Languages and Tools:
