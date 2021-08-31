@@ -41,16 +41,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sujalgera01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sujal Gera's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalgera01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Ansh-create/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ansh Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-create&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sujalgera01/github-readme-stats"><img alt="Sujal Gera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujalgera01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sujalgera01/github-readme-stats"><img alt="Sujal Gera's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalgera01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ansh-create/github-readme-stats"><img alt="Ansh Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ansh-create&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ansh-create/github-readme-stats"><img alt="Ansh Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-create&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sujalgera01/github-readme-activity-graph"><img alt="Sujal Gera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujalgera01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ansh-create/github-readme-activity-graph"><img alt="Ansh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ansh-create&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,13 +66,13 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sujal-gera-355847177/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://github.com/sujalgera01" target="_blank">
+<a href = "https://www.linkedin.com/in/ansh-gupta-create/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/ansh-create" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sujalgera01">
+    <img src="https://komarev.com/ghpvc/?username=Ansh-create">
 </a>
-<a href="https://github.com/sujalgera01?tab=followers"><img src="https://img.shields.io/github/followers/sujalgera01?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ansh-create?tab=followers"><img src="https://img.shields.io/github/followers/Ansh-create?label=Followers&style=social" alt="GitHub Badge"></a>
