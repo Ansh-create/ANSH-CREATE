@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I'm planning to get my hands into **Neural Networks**
+- 👨‍💻 I'm planning to get my hands into **ML & AI**
 
 - 📫 How to reach me **techansh12@gmail.com**
 
