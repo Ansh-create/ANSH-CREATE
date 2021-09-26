@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hello Everyone!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to ANSH World</h1>
-<h3 align="center">A passionate Full Stack Web Developer || UX/UI Designer || Open Source Developer and Contributor || Entrepreneur || Blogger || Content Creator and eager to learn new things as well as to explore the whole globe.</h3>
+<h3 align="center">A passionate Full Stack Web Developer || UX/UI Designer || Open Source Developer and Contributor || Entrepreneur || Blogger || Content Creator and always dynamic towards learning new things as well as to explore the whole globe.</h3>
 
 
 ## 🙋‍♂️ About Me
