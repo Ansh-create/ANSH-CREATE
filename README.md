@@ -63,14 +63,16 @@ His keen interest lies in managing programs, driving initiatives and developing 
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
+### 🤝🏻 &nbsp;Connect with Me
 
-<a href = "https://www.linkedin.com/in/ansh-gupta-create/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://github.com/ansh-create" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
-<a href = "https://www.instagram.com/i_ansh_gupta_/" target="_blank"><img src="https://img.icons8.com/instagram"/></a>
-<a href = "https://twitter.com/i_ansh_gupta_" target="_blank"><img src="https://img.icons8.com/twitter"/></a>
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 ## ❤ Views and Followers
