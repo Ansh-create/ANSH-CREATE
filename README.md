@@ -6,11 +6,11 @@ Ansh can be described as an all-rounder. He is soon be an engineer by profession
 His keen interest lies in managing programs, driving initiatives and developing products that can add value to business and help them to grow. Apart from the main stream, Ansh is a Entrepreneur who has keen interest in working in the startups and help them to grow by adding some of his values. He also works in e-learning and food-grain industry by managing different roles. Because of his Entrepreneur skills he helps one of the food-grain startup to increase their profit income by 5x in 2 years.
 
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 Currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 Currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking to collaborate on **OpenSource Projects or Freelancer**
 
 - 👨‍💻 I'm planning to get my hands into **ML & AI**
 
