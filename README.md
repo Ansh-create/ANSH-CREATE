@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![ANSH GUPTA Banner](https://github.com/Ansh-create/Ansh-create/blob/main/ANSH%20GUPTA%20(1).png)
 ## 🙋‍♂️ About Me
 Hi! Thanks for visiting **Ansh's GitHub profile**.
 
