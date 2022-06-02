@@ -12,7 +12,7 @@ His keen interest lies in managing programs, driving initiatives and developing 
 
 - 👯 Looking to collaborate on **OpenSource Projects or Freelancer**
 
-- 👨‍💻 Planning to get my hands into **ML & AI**
+- 👨‍💻 Planning to get his hands into **ML & AI**
 
 - 📫 How to reach him **techansh12@gmail.com**
 
