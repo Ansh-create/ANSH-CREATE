@@ -67,7 +67,7 @@ His keen interest lies in managing programs, driving initiatives and developing 
 
 <p align="center">
 <a href="[https://www.adityavsingh.com](https://anshgupta.vercel.app/)"><img src="https://img.shields.io/badge/-ansh_gupta-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ansh-gupta-create/"><img src="https://img.shields.io/badge/ANSH's LinkedIn style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ansh-gupta-create/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:techansh12@gmail.com"><img src="https://img.shields.io/badge/-techansh12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/i_ansh_gupta_/"><img src="https://img.shields.io/badge/-@i_ansh_gupta_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ansh.gupta.180625/"><img src="https://img.shields.io/badge/-@AnshGupta-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
