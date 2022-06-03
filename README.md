@@ -46,7 +46,7 @@ His keen interest lies in managing programs, driving initiatives and developing 
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
   <br/>
     <a href="https://github.com/Ansh-create/github-readme-stats"><img alt="Ansh Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ansh-create&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -63,7 +63,7 @@ His keen interest lies in managing programs, driving initiatives and developing 
 <br/>
 <br/>
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Him
 
 <p align="center">
 <a href="[https://www.adityavsingh.com](https://anshgupta.vercel.app/)"><img src="https://img.shields.io/badge/-ansh_gupta-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
