@@ -1,10 +1,8 @@
-![ANSH GUPTA Banner](https://github.com/Ansh-create/Ansh-create/blob/main/ANSH%20GUPTA%20(1).png)
+![ANSH GUPTA Banner](https://github.com/Ansh-create/ANSH-CREATE/blob/main/1600w-eEN5zzEf5VA.webp)
 ## 🙋‍♂️ About Me
 Hi! Thanks for visiting **Ansh's GitHub profile**.
 
-Ansh can be described as an all-rounder. He is soon be an engineer by profession & a management enthusiast by passion. He is a quick learner with a versatile skill set that includes a technical foundation as well as exceptional people skills. Give him a chance & you won't be disappointed.
-His keen interest lies in managing programs, driving initiatives and developing products that can add value to business and help them to grow. Apart from the main stream, Ansh is a Entrepreneur who has keen interest in working in the startups and help them to grow by adding some of his values. He also works in e-learning and food-grain industry by managing different roles. Because of his Entrepreneur skills he helps one of the food-grain startup to increase their profit income by 5x in 2 years.
-
+As an intrepid explorer driven by the quest for enriching experiences, I boast a robust educational background, holding a Bachelor of Technology (BTech) in Information Technology from Vellore Institute of Technology, Vellore. With extensive exposure to diverse technologies across various industries, I am resolutely committed to seizing every opportunity for growth and innovation. Embracing life's abundance, I am constantly seeking avenues for personal development and expansion. Fueled by a profound belief in the transformative power of knowledge, I am deeply passionate about forging connections with like-minded individuals to collectively contribute to a brighter future. Let's unite our efforts in cultivating a more prosperous and harmonious world for ourselves and generations to come.
 
 - 🔭 Currently working on **Full Stack Web Development**
 
