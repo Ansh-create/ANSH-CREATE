@@ -1,6 +1,6 @@
 ![ANSH GUPTA Banner](https://github.com/Ansh-create/ANSH-CREATE/blob/main/1600w-eEN5zzEf5VA.webp)
 ## 🙋‍♂️ About Me
-Hi! Thanks for visiting **Ansh's GitHub profile**.
+Hi! Thanks for visiting **my GitHub profile**.
 
 As an intrepid explorer driven by the quest for enriching experiences, I boast a robust educational background, holding a Bachelor of Technology (BTech) in Information Technology from Vellore Institute of Technology, Vellore. With extensive exposure to diverse technologies across various industries, I am resolutely committed to seizing every opportunity for growth and innovation. Embracing life's abundance, I am constantly seeking avenues for personal development and expansion. Fueled by a profound belief in the transformative power of knowledge, I am deeply passionate about forging connections with like-minded individuals to collectively contribute to a brighter future. Let's unite our efforts in cultivating a more prosperous and harmonious world for ourselves and generations to come.
 
@@ -12,7 +12,7 @@ As an intrepid explorer driven by the quest for enriching experiences, I boast a
 
 - 👨‍💻 Planning to get his hands into **ML, AI and Full Stack Development**
 
-- 📫 How to reach him **techansh12@gmail.com**
+- 📫 How to reach me **techansh12@gmail.com**
 
 
 ## 🚀 Languages and Tools:
