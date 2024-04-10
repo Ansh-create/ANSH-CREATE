@@ -4,13 +4,13 @@ Hi! Thanks for visiting **Ansh's GitHub profile**.
 
 As an intrepid explorer driven by the quest for enriching experiences, I boast a robust educational background, holding a Bachelor of Technology (BTech) in Information Technology from Vellore Institute of Technology, Vellore. With extensive exposure to diverse technologies across various industries, I am resolutely committed to seizing every opportunity for growth and innovation. Embracing life's abundance, I am constantly seeking avenues for personal development and expansion. Fueled by a profound belief in the transformative power of knowledge, I am deeply passionate about forging connections with like-minded individuals to collectively contribute to a brighter future. Let's unite our efforts in cultivating a more prosperous and harmonious world for ourselves and generations to come.
 
-- 🔭 Currently working on **Full Stack Web Development**
+- 🔭 Currently working in **Aditya Birla Capital**
 
-- 🌱 Currently learning **Data Structures and Algorithms.**
+- 🌱 Currently learning **Data Structures and Algorithms & Data Science**
 
 - 👯 Looking to collaborate on **OpenSource Projects or Freelancer**
 
-- 👨‍💻 Planning to get his hands into **ML & AI**
+- 👨‍💻 Planning to get his hands into **ML, AI and Full Stack Development**
 
 - 📫 How to reach him **techansh12@gmail.com**
 
